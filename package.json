@@ -1,0 +1,19 @@
+{
+  "name": "kbhg_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifutama12/kbhg_xid"
+  },
+  "keywords": [],
+  "author": "alifutama12",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
